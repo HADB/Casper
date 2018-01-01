@@ -1,3 +1,9 @@
+# 汉化使用说明
+
+1. 执行`npm install`安装必要的包
+2. 执行`gulp`编译文件
+3. 将除了`node_modules`目录之外的所有文件打包成zip文件，上传至ghost后台
+
 # Casper
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Casper. If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Casper/releases) page.
