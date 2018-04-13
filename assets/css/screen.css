@@ -791,6 +791,12 @@ The first (most recent) post in the list is styled to be bigger than the others 
     min-width: 100%;
 }
 
+@media (max-width: 500px) {
+    .post-full-content p {
+        word-break: break-all;
+    }
+}
+
 .post-full-content li {
     word-break: break-word;
 }
