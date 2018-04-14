@@ -1,8 +1,8 @@
 # 汉化使用说明
 
-1. 执行`npm install`安装必要的包
-2. 执行`gulp`编译文件
-3. 将除了`node_modules`目录之外的所有文件打包成zip文件，例如`casper-cn.zip`，上传至ghost后台，选择使用`casper-cn`主题即可
+1. 执行`yarn install`或`npm install`安装依赖
+2. 执行`yarn zip`或`npm run zip`编译打包
+3. 将`dist/casper-cn.zip`上传至ghost后台，选择使用`casper-cn`主题即可
 
 # Casper
 

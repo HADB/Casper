@@ -1,7 +1,7 @@
 {
-    "name": "casper",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
-    "demo": "https://demo.ghost.io",
+    "name": "casper-cn",
+    "description": "Ghost默认主题Casper汉化版",
+    "demo": "https://hadb.me/",
     "version": "2.2.0",
     "engines": {
         "ghost": ">=1.2.0"
